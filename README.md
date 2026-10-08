@@ -25,6 +25,8 @@ O projeto foi construído transformando uma aplicação estática em uma **arqui
 * **HTML5 & CSS3** (Vanilla CSS com Design System de temas)
 * **Node.js & Angular CLI**
 
+
+🌐 **Veja o projeto publicado:** [Acessar o blog](https://blog-portfolio-angular.vercel.app)
 ---
 
 ✨ Desenvolvido por **[Giovana Boni](https://github.com/bonigiovana)**
