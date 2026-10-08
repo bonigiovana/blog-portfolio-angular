@@ -15,13 +15,13 @@ export class AnivaultComponent {
 /**
  * Título principal exibido no card do Anivault.
  */
-tituloProjeto string = 'AniVault - Hub de Animes';
+tituloProjeto: string = 'AniVault - Hub de Animes';
 
 /**
  * Métodos acionado ao clicar para abrir os detalhes do projeto
  */
 abrirDetalhes(): void {
-  console.console.log('Abrindo detalhes do Anivault...');
+  console.log('Abrindo detalhes do Anivault...');
 
 }
 }
